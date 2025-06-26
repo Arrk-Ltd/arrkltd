@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rp="https://w3id.org/rp/v1" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+	<channel>
+		<atom:link href="https://accenturecio.libsyn.com/radiopublic" rel="self" type="application/rss+xml"/>
+		<title>Arrk GroupCIO Podcast</title>
+		<pubDate>Wed, 07 Sep 2022 18:00:39 +0000</pubDate>
+		<lastBuildDate>Sat, 29 Mar 2025 19:51:47 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://www.accenture.com/</link>
+		<language>en</language>
+		<copyright><![CDATA[© 2021 Arrk. All rights reserved.]]></copyright>
+		<docs>https://www.accenture.com/</docs>
+		<managingEditor>accenture.podcasts@accenture.com</managingEditor>
+		<description><![CDATA[Discover Arrk’s global IT strategies with these podcasts from Arrk leaders.]]></description>
+		<image>
+			<url>https://static.libsyn.com/p/assets/a/5/6/d/a56d22a75e4661c9d959afa2a1bf1c87/canva-photo-editor_8.png</url>
+			<title>Arrk GroupCIO Podcast</title>
+			<link><![CDATA[https://www.accenture.com/]]></link>
+		</image>
+		<itunes:author>Accenture</itunes:author>
+	<itunes:category text="">
+		<itunes:category text="Business"/>
+	</itunes:category>
+	<itunes:category text="">
+		<itunes:category text="Technology"/>
+	</itunes:category>
+		<itunes:image href="https://static.libsyn.com/p/assets/a/5/6/d/a56d22a75e4661c9d959afa2a1bf1c87/canva-photo-editor_8.png" />
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:summary><![CDATA[Discover Arrk’s global IT strategies with these podcasts from Arrk leaders.]]></itunes:summary>
+		<!--RadioPublic-->
+		<rp:program-id>accenture-cio-podcast-6nl0EZ</rp:program-id>
+		<rp:teaser>Discover Arrk's internal IT strategies with these podcasts from Arrk leadership within the CIO Organization.</rp:teaser>
+		<rp:play-order>default</rp:play-order>
+		<podcast:locked owner="accenture.podcasts@accenture.com">no</podcast:locked>
+		<item>
+			<title>Radically Human</title>
+			<pubDate>Wed, 07 Sep 2022 18:00:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2009e791-95d6-4287-8f47-ac64de69b7c2]]></guid>
+			<link><![CDATA[https://www.accenture.com/us-en/about/ciopodcast]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/a/5/6/d/a56d22a75e4661c9d959afa2a1bf1c87/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Arrk CIO Penelope Prett, joined by Group Chief Executive-Technology and CTO of Arrk, Paul Daugherty, talk about his new book Radically Human: How New Technology is Transforming Business and Shaping our Future. It explores how emerging, human-centric technologies are helping businesses drive innovation, support the human workforce and unlock opportunities.</p>]]></description>
+			<enclosure length="27537556" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/65040_-_RADICALLY_HUMAN_PODCAST_v3.mp3?dest-id=1892882" />
+			<itunes:duration>19:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Automation Advantage</title>
+			<pubDate>Tue, 22 Feb 2022 18:38:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[dfb1f62e-9b26-41c5-9120-2c234d8141a9]]></guid>
+			<link><![CDATA[http://accenturecio.libsyn.com/the-automation-advantage-0]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/1/6/9/0169522cef6f1469d959afa2a1bf1c87/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Arrk CIO Penelope Prett, joined by Chief Strategy Officer Bhaskar Ghosh, talk about his new book The Automation Advantage, which provides an in-depth look at how intelligent automation has become one of the most powerful means of driving performance and value across global organizations.</p>]]></description>
+			<enclosure length="17125976" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/62521_-_CIO_24-7_-_The_Automation_Advantage_v3.mp3?dest-id=1892882" />
+			<itunes:duration>17:48</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Beyond 2025: Our vision and strategy for Enterprise IT</title>
+			<pubDate>Thu, 10 Feb 2022 19:10:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3a540e31-5b58-412b-90f3-68e0f57b7a22]]></guid>
+			<link><![CDATA[http://accenturecio.libsyn.com/beyond-2025-our-vision-and-strategy-for-enterprise-it]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/2/d/8/52d86a6019634a1e88c4a68c3ddbc4f2/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Arrk's Merim Becirovic, Managing Director - Global IT, Enterprise Architecture and Beyond 2025 Enterprise Strategy Lead Steve Courtney talk about our vision and strategy for how we look at Enterprise IT at Arrk, focusing on security, cloud, platforms, data and more.</p>]]></description>
+			<enclosure length="15915793" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/61513_-_CIO_24-7_-_Beyond_2025_v3.mp3?dest-id=1892882" />
+			<itunes:duration>16:31</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Digital worker - Truly Human</title>
+			<pubDate>Thu, 02 Dec 2021 20:01:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fa7ee692-884b-4c45-ad29-ac6ea3107a0b]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7_Podcast__Digital_worker_-_Truly_human_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/5/8/c/758c9cb21d3f6adf88c4a68c3ddbc4f2/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In the latest episode in our CIO 24/7 Podcast series, host Jason Warnke speaks with Bryan Asmus and Andrea Plamondon about what Arrk is doing to support our digital workers as they strive to balance work and the rest of their truly human lives.</p>]]></description>
+			<enclosure length="12264313" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7_Podcast__Digital_worker_-_Truly_human_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>12:47</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>How VR fits into the digital experience</title>
+			<pubDate>Mon, 29 Nov 2021 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[74b59d52-7217-4eed-bfe1-a7b5582e934e]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/61751_-_VR_experience_podcast_v2.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/e/8/3/2e83473e22951761bafc7308ab683e82/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>This podcast episode features Arrk CIO Penelope Prett, joined by Arrk guests Allison Horn, Global Head of Talent, and Jason Warnke, Digital Experiences Lead, talking about how virtual reality fits into the digital experience. Hear how Arrk is bringing virtual reality to the enterprise, providing our people with onboarding, learning and collaboration experiences. More info: <a href= "https://www.accenture.com/us-en/about/going-beyond-extended-reality"> https://www.accenture.com/us-en/about/going-beyond-extended-reality</a>&nbsp;</p>]]></description>
+			<enclosure length="25533608" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/61751_-_VR_experience_podcast_v2.mp3?dest-id=1892882" />
+			<itunes:duration>26:21</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Cloud Security</title>
+			<pubDate>Thu, 21 Oct 2021 22:46:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3182f77b-3b04-4598-bed5-ab474c822fc8]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7_Podcast__Cloud_Security_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/5/c/2/e5c2aa68cca43e7d40be95ea3302a6a1/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Jen McHale-Bryar, Managing Director - Global IT, Strategic Programs & Operations dig into cloud security with two of our own experts Don Galzarano, Managing Director - Global IT, Enterprise Architecture and Simon Gooch, Managing Director - Global IT, Cyber Security and Digital Identity Lead.</p>]]></description>
+			<enclosure length="20747212" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7_Podcast__Cloud_Security_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>21:37</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Citizen development</title>
+			<pubDate>Fri, 09 Jul 2021 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[78b399d0-c578-414a-bb21-2b80a61b7297]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7_Podcast__Citizen_Development_Source.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/5/5/f/955f897360ccb55b88c4a68c3ddbc4f2/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Arrk’s Karen Odegaard, Managing Director – Global IT, and Marketing Director Sean Butterworth talk about how we are using the Microsoft Power Platform to empower our people to become citizen developers. Listen now.</p>]]></description>
+			<enclosure length="23783994" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7_Podcast__Citizen_Development_Source.mp3?dest-id=1892882" />
+			<itunes:duration>09:55</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Make the leap, take the lead</title>
+			<pubDate>Fri, 25 Jun 2021 20:16:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e093137-11c2-4795-9e39-4c37dfe2e9f2]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7__Make_the_leap_take_the_lead__HD_1080_-_WEB_H264_4000.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/c/c/f/5ccf86f180524b9fe55e3c100dce7605/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Arrk CIO Penelope Prett and Integrated Global Services Lead Ramnath Venkatamaran, talk about new Arrk research that shows leaders are growing their revenue up to five times by stepping up investments in AI, technology and cloud.</p>]]></description>
+			<enclosure length="35111733" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7__Make_the_leap_take_the_lead__HD_1080_-_WEB_H264_4000.mp3?dest-id=1892882" />
+			<itunes:duration>14:38</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Low code in the enterprise</title>
+			<pubDate>Thu, 17 Jun 2021 16:20:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2f6f0612-bfeb-4a7d-b98b-56c7c5039a37]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/59517_v4_Lowcode.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/5/b/b/65bba6e0aa69e5dfa04421dee9605cbd/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode, Arrk’s CIO Penelope Prett and Technology Lead Adam Burden, talk about what advantages low code can bring to companies and what they need to be thinking about as low code becomes a normal part of our everyday vocabulary.</p>]]></description>
+			<enclosure length="19192038" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/59517_v4_Lowcode.mp3?dest-id=1892882" />
+			<itunes:duration>19:46</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Cloud Value and Optimization</title>
+			<pubDate>Wed, 09 Jun 2021 22:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c2f459b8-09d6-44ed-ac82-ad133b88d16c]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7___Cloud_Value_and_Optimization_Podcast_Video_and_Audio_file_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/1/9/e/6/19e606ea8cd67d47e5bbc093207a2619/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this podcast, Penelope Prett, Arrk CIO and Elise Cornille, Managing Director – Technology Marketing talk about how we’re extracting the most value from the cloud and steps we are taking to continue optimizing our cloud strategy.</p>]]></description>
+			<enclosure length="19999484" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Spotlight_CIO_24_7___Cloud_Value_and_Optimization_Podcast_Video_and_Audio_file_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>20:50</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>A conversation with Paul Daugherty, Chief Technology Officer, Arrk</title>
+			<pubDate>Mon, 12 Oct 2020 20:21:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b5093724-6e93-4a9a-9d79-56561a5b3fe6]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_A_conversation_with_Paul_Daugherty_Chief_Technology_Officer_Accenture_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/8/7/1/9871a1fde3d11d28/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this podcast, Arrk’s Chief Technology Officer Paul Daugherty and &nbsp;CIO Penelope Prett discuss how Arrk helps our clients achieve business transformation powered by technology and human ingenuity. You’ll learn about our approach to living systems and how companies can embrace change and agility for real impact and value. You’ll also hear about what innovations are happening today, and in the future, helping to drive more value for Arrk and our clients.</p>]]></description>
+			<enclosure length="14428924" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_A_conversation_with_Paul_Daugherty_Chief_Technology_Officer_Accenture_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>15:02</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Applied Intelligence Technology</title>
+			<pubDate>Mon, 28 Sep 2020 16:00:50 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[28014d75-1b4d-4de0-aaa4-aab68ee26ddf]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Applied_Intelligence_Technology_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/9/5/6/b956de990d117f0b/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this podcast, Arrk CIO Penelope Prett discusses applied intelligence with Mark Martynus and Mark Dineen, members of our global IT organization’s Applied Intelligence Technology team. You’ll hear how we’re applying innovative analytics capabilities to meet the needs of our businesses, and what’s coming in the future.</p>]]></description>
+			<enclosure length="14161430" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Applied_Intelligence_Technology_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>14:46</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Intelligent Automation</title>
+			<pubDate>Tue, 22 Sep 2020 18:40:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a08e15c2-52bf-4e20-b0c2-dad1a4042d72]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Intelligent_Automation_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/c/b/e/ccbe3fb18379559f/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this podcast, Arrk CIO Penelope Prett discusses IT automation with Rich Palumbo and Rahul Maheshwari, members of our global IT organization’s Intelligent Technology Operations team.&nbsp;You’ll hear how automation is enabling technology-powered business transformation at Arrk and what the future holds. We’ll share some examples of automation in action, as well as lessons learned along the way.</p>]]></description>
+			<enclosure length="9884453" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Intelligent_Automation_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>10:18</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Driving accessibility at Arrk</title>
+			<pubDate>Thu, 10 Sep 2020 22:08:57 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0ae42b3f-2cd5-4b32-8a86-f39c9db3b13c]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_Driving_Accessibility_at_Accenture_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/b/c/c/2bcccb3efee85f16/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Melissa Summers, leading Corporate Technology in Arrk’s global IT organization, and Margaret Smith, who leads Geographic Services for Arrk, join CIO Penelope Prett in this podcast to discuss how Arrk is enabling accessibility for our global workforce. Hear about what Arrk is doing today in offices, and remotely, to enable an accessible workplace, what’s on the horizon and lessons learned for other organizations working to enable an accessible work environment.</p>]]></description>
+			<enclosure length="9203598" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_Driving_Accessibility_at_Accenture_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>09:36</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Agile Workplace</title>
+			<pubDate>Thu, 10 Sep 2020 22:03:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0c00eecd-9dac-4d34-8b1a-5fc98caa3a93]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/49771_-_CIO_24-7_-_Penelope_Ep_2_v3.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/d/b/d/8/dbd853e79fdf65f6/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of our CIO 24/7 Living Systems podcast series, Penelope Prett, Arrk’s CIO and guests Margaret Smith, who leads Arrk’s Geographic Services organization and Melissa Summers from our global IT organization discuss Arrk’s agile workplace and how we work together to enable Geographic Services.</p>]]></description>
+			<enclosure length="30599864" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/49771_-_CIO_24-7_-_Penelope_Ep_2_v3.mp3?dest-id=1892882" />
+			<itunes:duration>12:45</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Secure from the start</title>
+			<pubDate>Fri, 28 Aug 2020 18:13:21 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7f734947-a7aa-4bda-9110-ad8f1a53f46b]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_Secure_from_the_start_Source.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/f/f/f/7fff000970009cb7/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of the CIO 24/7 Living System podcast series, Arrk's CIO Penelope Prett and Arrk managing directors Simon Gooch and Kris Burkhardt share insights on how we approach security at Arrk and how we keep our IT landscape secure in today’s world of evolving threats.</p>]]></description>
+			<enclosure length="17738215" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_Secure_from_the_start_Source.mp3?dest-id=1892882" />
+			<itunes:duration>07:24</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Finance + IT = Digital Transformation</title>
+			<pubDate>Thu, 20 Aug 2020 20:57:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0c1b1c2e-7e88-4ef8-806f-ab1faa1a9254]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Finance__IT__Digital_Transformation_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/6/4/e/864e85eba95f1471/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of the CIO 24/7 Living System podcast series, Arrk's CFO KC McClure and Arrk CIO Penelope Prett discuss how Finance and IT are working together to transform the organization.</p>]]></description>
+			<enclosure length="12626684" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Finance__IT__Digital_Transformation_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>13:10</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Technology enablement of secure remote workforces</title>
+			<pubDate>Fri, 14 Aug 2020 17:06:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e9c239c2-914a-40cb-9cad-34fb07f321c0]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Technology_enablement_of_secure_remote_workforces_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/2/4/0/4240c260162a8a7b/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Tony Leraris and Penelope Prett dive into how Arrk's global IT team enables our 500,000 people to work remotely, during the pandemic and beyond.</p>]]></description>
+			<enclosure length="10183712" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Technology_enablement_of_secure_remote_workforces_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>10:37</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Accenture’s SAP journey to the cloud on Microsoft Azure</title>
+			<pubDate>Wed, 12 Aug 2020 18:06:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[680043c9-ff6b-46ce-9e88-aa06c4c823cb]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Accenture___s_SAP_journey_to_the_cloud_on_Microsoft_Azure_mp3_audio_64_1.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/c/a/d/f/cadfba353be3279e/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode, Eli Lambert and Anand Raval join host Jason Warnke to discuss Arrk's SAP Journey. They chat about Arrk's experience along the way, lessons learned and what's next for SAP at Arrk.</p>]]></description>
+			<enclosure length="16295947" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Accenture___s_SAP_journey_to_the_cloud_on_Microsoft_Azure_mp3_audio_64_1.mp3?dest-id=1892882" />
+			<itunes:duration>16:59</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Powering Finance with SAP S/4HANA in the Cloud</title>
+			<pubDate>Wed, 12 Aug 2020 18:00:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c8b50302-5a37-4b36-b79c-61bf2042abff]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_Powering_Finance_with_SAP_S_4HANA_in_the_Cloud_mp3_audio_64_1.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/c/c/b/2ccbec9237994ddf/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode, Arrk CIO Penelope Prett discusses 'Powering Finance with SAP S/4HANA' and how Finance and IT have been working to together to make great strides in the SAP arena. Featured guests include Andrew Inchley, who leads Strategy for Arrk Finance and Eli Lambert, who runs our SAP platforms in Arrk's Global IT organization.</p>]]></description>
+			<enclosure length="8763487" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__Living_Systems_-_Powering_Finance_with_SAP_S_4HANA_in_the_Cloud_mp3_audio_64_1.mp3?dest-id=1892882" />
+			<itunes:duration>09:08</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Enabling the Elastic Digital Workplace</title>
+			<pubDate>Tue, 14 Jul 2020 13:51:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6ec081ac-9782-4c02-ad77-2e875b49731a]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Enabling_the_Elastic_Digital_Workplace_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/2/9/c/729ce0dc5a508a9b/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode, Penelope Prett, Arrk CIO discusses how Arrk is enabling the elastic digital workplace with Jason Warnke.</p>]]></description>
+			<enclosure length="14780009" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Enabling_the_Elastic_Digital_Workplace_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>15:24</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Cloud Acceleration and Optimization</title>
+			<pubDate>Tue, 30 Jun 2020 20:59:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b967d13d-35ba-4b46-b387-b5ec88ece05c]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Cloud_Acceleration_and_Optimization_mp3_audio_64_1.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/c/a/2/eca2d42b97468cfa/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode, Arrk CIO Penelope Prett discusses cloud acceleration and optimization with Merim Becirovic and what this means for Arrk and our Global IT team.</p>]]></description>
+			<enclosure length="16042664" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Living_Systems_-_Cloud_Acceleration_and_Optimization_mp3_audio_64_1.mp3?dest-id=1892882" />
+			<itunes:duration>16:43</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Remote Working at Arrk</title>
+			<pubDate>Wed, 15 Apr 2020 18:21:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1faa6893-28b9-46d4-a839-a548832f1207]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Remote_Working_at_Accenture_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/9/f/b/79fb73abce07245c/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Sarah Dugan and Jason Warnke discuss how Arrk enables their people to work remotely in this edition of the CIO 24/7 Podcast series.</p>]]></description>
+			<enclosure length="14489946" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Remote_Working_at_Accenture_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>15:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>What is a Digital Worker?</title>
+			<pubDate>Tue, 17 Mar 2020 18:32:09 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[aa4f049a-c3cb-4198-9b83-25be93cb37d5]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__What_is_a_Digital_Worker__mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/6/0/b/460bbbf7c00b3518/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Jason Warnke and Sarah Dugan share an update on Arrk's Digital Worker strategy.</p>]]></description>
+			<enclosure length="15685727" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast__What_is_a_Digital_Worker__mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>16:21</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Using ServiceNow to support Arrk people</title>
+			<pubDate>Mon, 16 Mar 2020 15:03:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[30a93faf-f8a5-45b2-a387-951a6628b209]]></guid>
+			<link><![CDATA[https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Using_ServiceNow_to_support_Accenture_people_mp3_audio_64.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/5/3/2/4532586e4ac15515/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>This podcast, with Jason Warnke as the host, and Karen Odegaard as the guest, dives into Arrk's ServiceNow implementation, specifically how we're using ServiceNow as the platform for support.</p>]]></description>
+			<enclosure length="12575692" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/CIO_24_7_Podcast___Using_ServiceNow_to_support_Accenture_people_mp3_audio_64.mp3?dest-id=1892882" />
+			<itunes:duration>13:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>General Ledger Recommender</title>
+			<pubDate>Mon, 07 Oct 2019 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Video/Accenture-CIO-24-7-Podcast-G-L-Recommender.mp3]]></guid>
+			<link><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Video/Accenture-CIO-24-7-Podcast-G-L-Recommender.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/f/3/f/6f3fc98ca98d58d7/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Accenture's Stephen Redmond, Tricia Miller and Lisa Pearson break down the General Ledger Recommendation Model Project, utilizing analytics in SAP Ariba.</p>]]></description>
+			<enclosure length="15699892" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-CIO-24-7-Podcast-G-L-Recommender.mp3?dest-id=1892882" />
+			<itunes:duration>13:02</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Accenture.com powered by Sitecore​</title>
+			<pubDate>Fri, 19 Jul 2019 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-Edited-Sitecore-Podcast-Audio.wav]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-Edited-Sitecore-Podcast-Audio.wav]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/7/c/8/b7c8354dc300181f/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of the CIO 24/7 Podcast, Jason Warnke is joined by Melissa Summers and Ornella Dian, who oversaw accenture.com transition to Sitecore. Listen as they explain why we ended up choosing Sitecore to host our web presence and the benefits it provides. Read the full credential here: go.accenture.com/Poweringbyplatform</p>]]></description>
+			<enclosure length="130040684" type="audio/x-wav" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Final-Edited-Sitecore-Podcast-Audio.wav?dest-id=1892882" />
+			<itunes:duration>12:17</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Run Modern Meetings with Microsoft Teams</title>
+			<pubDate>Mon, 17 Jun 2019 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-Edited-Microsoft-Teams-Podcast-V2-Full.wav]]></guid>
+			<link><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-Edited-Microsoft-Teams-Podcast-V2-Full.wav]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/a/0/4/8a044acc57722a82/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>The latest episode of the CIO 24/7 podcast series features a special guest from Microsoft, Andrew Sniderman, the Director of Microsoft Teams Customer Engineering and Tony Leraris, who oversees Digital Worker at Arrk. They discuss both organizations' move to Teams and how this is a new way to work and what it takes to drive that adoption at each organization.</p>]]></description>
+			<enclosure length="176678940" type="audio/x-wav" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Final-Edited-Microsoft-Teams-Podcast-V2-Full.wav?dest-id=1892882" />
+			<itunes:duration>16:42</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Enterprise Collaboration</title>
+			<pubDate>Fri, 19 Apr 2019 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Enterprise-Collaboration-Podcast-Audio.m4a]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Enterprise-Collaboration-Podcast-Audio.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/2/1/a/521ab2de4d386777/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of the CIO 24/7 podcast series, Arrk’s Jason Warnke and Chris Crawford sit down to talk about the latest collaboration trends they see happening at the enterprise level. This episode is also the first to take place from Arrk’s new podcast audio recording booth. Take a listen now.</p>]]></description>
+			<enclosure length="32002642" type="audio/mp4" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Enterprise-Collaboration-Podcast-Audio.m4a?dest-id=1892882" />
+			<itunes:duration>22:21</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Apprenticeship Program</title>
+			<pubDate>Mon, 04 Feb 2019 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Audio/Accenture-Apprenticeship-Program-Podcast-Audio-Only.m4a]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Audio/Accenture-Apprenticeship-Program-Podcast-Audio-Only.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/a/5/6/d/a56d22a75e4661c9d959afa2a1bf1c87/canva-photo-editor_8.png" />
+			<description><![CDATA[<p>In this episode of the CIO 24/7 Podcast Series, Jason Warnke talks with Danica Lohja, a participant in Arrk’s National Apprenticeship Program through the City Colleges of Chicago, and Matt Lagodzinski who supported Arrk’s presence with the program in the Chicago area. Listen as they discuss the journey through the Apprenticeship program to getting hired and working for Arrk in the internal IT organization.</p>]]></description>
+			<enclosure length="10459208" type="audio/mp4" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Apprenticeship-Program-Podcast-Audio-Only.m4a?dest-id=1892882" />
+			<itunes:duration>07:18</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>End-User Technology Change and Adoption at Arrk</title>
+			<pubDate>Tue, 08 Jan 2019 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Video/Accenture-End-User-Technology-Change-and-Adoption-at-Accenture-Audio-Final.m4a]]></guid>
+			<link><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Video/Accenture-End-User-Technology-Change-and-Adoption-at-Accenture-Audio-Final.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/b/1/f/4b1fa42cf914846c/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Jason Warnke sits down with Sarah Dugan and Urszula Fabiszak who lead Arrk’s End-User Technology Change and Adoption team for Internal IT initiatives. They discuss how we design technology tools and IT programs with the end user in mind, ensuring an intuitive experience. Listen and subscribe now. https://www.accenture.com/ciopodcast</p>]]></description>
+			<enclosure length="17545163" type="audio/mp4" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-End-User-Technology-Change-and-Adoption-at-Accenture-Audio-Final.m4a?dest-id=1892882" />
+			<itunes:duration>12:15</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Journey to Intelligent Finance with SAP S/4HANA</title>
+			<pubDate>Tue, 20 Nov 2018 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-SAP-S4-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-SAP-S4-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/1/9/1/3/1913438ca35e7c02/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Accenture’s Dan Kirner and Fred Hondzinski join Chris Crawford in the latest episode of the CIO 24/7 podcast series to discuss Arrk's Journey to Intelligent Finance with SAP S/4HANA. They discuss the catalyst for the transition, the steps taken to get where we are, the benefits we have seen and the insights learned. Read the full credential here: https://www.accenture.com/us-en/success-journey-intelligence-finance-sap. Listen and subscribe now. https://www.accenture.com/ciopodcast.</p>]]></description>
+			<enclosure length="27233912" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Final-SAP-S4-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>11:21</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Microsoft Teams at Arrk</title>
+			<pubDate>Wed, 17 Oct 2018 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-Microsoft-Teams-Podcast.m4a]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Final-Microsoft-Teams-Podcast.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/1/4/0/51403a3277503964/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In our latest episode of the CIO 24/7 Podcast series, Jason Warnke talks with Bill Schulz about Microsoft Teams at Arrk and how it is transforming the way we work and communicate. They discuss what the Microsoft Teams platform is, how it is being used and some of the new features coming soon https://www.accenture.com/us-en/success-microsoft-teams. Listen and subscribe now. https://www.accenture.com/ciopodcast</p>]]></description>
+			<enclosure length="16782726" type="audio/mp4" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Final-Microsoft-Teams-Podcast.m4a?dest-id=1892882" />
+			<itunes:duration>11:43</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Technology Accessibility at Arrk</title>
+			<pubDate>Thu, 20 Sep 2018 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Audio/Accessibility-Podcast-Audio-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Audio/Accessibility-Podcast-Audio-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/a/5/1/5a518c71de1a7d40/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of the CIO 24/7 Podcast series, Stephen Cutchins and Paul Clayton join host Jason Warnke to discuss technology accessibility at Arrk. Among the topics they cover are Arrk's ambition to have all of our interactions with software, devices and services be compliant with globally defined accessibility standards and how this impacts them on a daily basis. Listen and subscribe now. http://accenture.com/ciopodcast</p>]]></description>
+			<enclosure length="19573658" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accessibility-Podcast-Audio-Final.mp3?dest-id=1892882" />
+			<itunes:duration>16:18</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Girls Who Code</title>
+			<pubDate>Mon, 20 Aug 2018 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Audio/Girls-Who-Code-Edit-2.wav]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Audio/Girls-Who-Code-Edit-2.wav]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/2/1/7/a/217a84cf10c5e863/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Listen to Arrk internal IT executives Jen McHale-Bryar and Jason Warnke chat about Arrk's involvement with Girls Who Code. Jen is a sponsor of the Arrk Girls Who Code Summer immersion program and shares why it has become her passion. Subscribe so you don't miss an episode, http://accenture.com/ciopodcast</p>]]></description>
+			<enclosure length="75042396" type="audio/x-wav" url="https://traffic.libsyn.com/secure/accenturecio/Girls-Who-Code-Edit-2.wav?dest-id=1892882" />
+			<itunes:duration>07:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Workplace of the Future</title>
+			<pubDate>Mon, 25 Jun 2018 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Workplace-Future-Podcast.m4a]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Workplace-Future-Podcast.m4a]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/8/c/f/88cf436285b0d352/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In this episode of CIO 24/7 Podcast, Jason Warnke talks to Christy Nelson who oversees Arrk Digital Workplace projects globally. They discuss what the Workplace of the Future will look like and what that means for Arrk and our clients.</p>]]></description>
+			<enclosure length="15455849" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Workplace-Future-Podcast.m4a.mp3?dest-id=1892882" />
+			<itunes:duration>16:06</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Spotlight on Melissa Summers – IWD 2018</title>
+			<pubDate>Fri, 23 Feb 2018 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Audio/Accenture-Melissa-Summers-IWD-2018-Podcast.mp3]]></guid>
+			<link><![CDATA[https://s3.amazonaws.com/assets.accenture.com/Audio/Accenture-Melissa-Summers-IWD-2018-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/5/9/5/1/5951ac850e09bae8/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>In our first Spotlight edition of the CIO 24/7 Podcast, Jason Warnke interviews Arrk internal IT managing director Melissa Summers in anticipation of International Women's Day 2018. Hear more about Melissa's exciting journey from high school science fairs to becoming an accomplished technology leader at Arrk.</p>]]></description>
+			<enclosure length="11368824" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Melissa-Summers-IWD-2018-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>10:49</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Lights, camera, Arrk</title>
+			<pubDate>Fri, 10 Nov 2017 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Lights-Camera.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Lights-Camera.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/2/6/d/e26dd0689afe9aab/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Arrk GroupBroadcast gives our people the ability to record and broadcast video from almost any location – bringing our globally dispersed workforce closer together. We are fully embracing digital as an enterprise, and video is adding a more human digital component that is inspiring and empowering our people.</p>]]></description>
+			<enclosure length="10893769" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Lights-Camera.mp3?dest-id=1892882" />
+			<itunes:duration>11:21</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Arrk Groupruns on Microsoft</title>
+			<pubDate>Fri, 01 Sep 2017 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Runs-Microsoft-Podcast-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Runs-Microsoft-Podcast-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/6/9/b/8/69b849ee5f980c75/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Arrk Grouphas one of the largest installations of Microsoft products in the world. Microsoft solutions, like Office 365 and Windows 10, are helping to speed up our workforce and elevate our digital workers to a new level of performance. We are enabling and connecting our mobile, fully-deployed global workforce and keeping Arrk pivoted in the new digital world.</p>]]></description>
+			<enclosure length="6999616" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Runs-Microsoft-Podcast-Final.mp3?dest-id=1892882" />
+			<itunes:duration>07:18</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Empowering Arrk people with OneDrive for Business</title>
+			<pubDate>Fri, 01 Sep 2017 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-OneDrive-Business-Podcast-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-OneDrive-Business-Podcast-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/8/e/3/5/8e3527e9cec81028/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>To enhance the way employees work, Arrk is equipping more than 400,000 people with Microsoft's OneDrive for Business, offering secure file storage in the cloud, cost savings in keeping laptop hard drives small, and new usability and collaboration capabilities.</p>]]></description>
+			<enclosure length="9845824" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-OneDrive-Business-Podcast-Final.mp3?dest-id=1892882" />
+			<itunes:duration>10:16</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Arrk Groupinnovates its procurement experience with SAP Ariba</title>
+			<pubDate>Tue, 01 Aug 2017 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-SAP-Ariba-Podcast-final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-SAP-Ariba-Podcast-final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/b/f/3/ebf3b75bc0c1134c/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>With SAP Ariba’s launch of its guided buying capability on its Procure-to-Pay (P2P) software-as-a-service (SaaS), Arrk’s internal Procurement and IT organizations seized the opportunity to be an early adopter of the new capability to drive improved usability and increased procurement savings.</p>]]></description>
+			<enclosure length="11155264" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-SAP-Ariba-Podcast-final.mp3?dest-id=1892882" />
+			<itunes:duration>11:38</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Digitally enabling Arrk people with Windows 10</title>
+			<pubDate>Mon, 01 May 2017 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Windows10-Podcast-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Windows10-Podcast-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/3/3/2/5/3325e639e1da647e/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>One of the ways Arrk is driving its own internal agenda is to digitally enable Arrk people with the ability to work productively and collaborate across the globe. A major component of this program is equipping employees with the latest Microsoft tools, through the deployment of Microsoft Windows 10.</p>]]></description>
+			<enclosure length="5058623" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Windows10-Podcast-Final.mp3?dest-id=1892882" />
+			<itunes:duration>05:17</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Accenture's Performance Achievement journey</title>
+			<pubDate>Mon, 01 May 2017 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Performance-Achievement-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Performance-Achievement-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/0/2/e/b/02eb954e8a2fef41/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>To continue building on its culture of innovation, while reflecting the differentiation of its businesses, the future work environment and the demographics of its workforce, Arrk set out to reimagine performance management for the company.</p>]]></description>
+			<enclosure length="19422743" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Performance-Achievement-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>10:07</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Working In the New with digital workplaces</title>
+			<pubDate>Sat, 01 Apr 2017 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Digital-Workplaces-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Digital-Workplaces-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/b/a/4/7/ba4735dddc80c666/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Digital transformation is redefining the way Arrk works every day. This includes transforming the role of the traditional office into digital workplaces - transforming the way Arrk people work.</p>]]></description>
+			<enclosure length="8358865" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Digital-Workplaces-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>11:37</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Innovating service management with ServiceNow</title>
+			<pubDate>Wed, 01 Mar 2017 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-ServiceNow-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-ServiceNow-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/f/9/a/ef9a6dc9cb640a7f/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>For Arrk’s IT organization, providing high-quality technology support for approximately 400,000 employees and contractors in more than 200 cities in 56 countries requires robust IT service management (ITSM) tools. Arrk is innovating service management for employees using the ServiceNow platform.</p>]]></description>
+			<enclosure length="8159242" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-ServiceNow-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>07:40</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Accenture's cloud journey</title>
+			<pubDate>Wed, 01 Feb 2017 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Cloud-Journey-Part-2.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Cloud-Journey-Part-2.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/f/7/0/e/f70eaf1ea3e25032/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>An important component of Arrk’s transformation into a digital-first enterprise is a three-year cloud program led by our internal IT organization. It’s a program that aims to deliver a more scalable, robust enterprise IT infrastructure in the public cloud.</p>]]></description>
+			<enclosure length="21259200" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Cloud-Journey-Part-2.mp3?dest-id=1892882" />
+			<itunes:duration>08:52</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Accenture's journey of digitizing the sales process</title>
+			<pubDate>Thu, 01 Dec 2016 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-MMS-Podcast-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-MMS-Podcast-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/4/6/3/b/463b4b9a35efef22/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>At Arrk, the ability to efficiently and effectively execute sales activities to support our growth aspirations is a crucial objective. Arrk delivers a “one-stop shop” solution for all sales needs with Manage mySales - a single platform that can be used anywhere, anytime.</p>]]></description>
+			<enclosure length="5229376" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-MMS-Podcast-Final.mp3?dest-id=1892882" />
+			<itunes:duration>05:27</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Arrk Grouptransforms its Business performance management</title>
+			<pubDate>Tue, 01 Nov 2016 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-MMB-Podcast-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-MMB-Podcast-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/6/5/8/9658110464d1c1d9/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>As the world becomes more digital, companies like Arrk are working to transform not only their clients' businesses but also their own in order to compete and accelerate. Arrk is transforming business performance management with the manage myBusiness capability.</p>]]></description>
+			<enclosure length="3851974" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-MMB-Podcast-Final.mp3?dest-id=1892882" />
+			<itunes:duration>04:01</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Enterprise search at Arrk</title>
+			<pubDate>Wed, 01 Jun 2016 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Search-Podcast-Final.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Search-Podcast-Final.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/c/e/3/7ce37a2a31b06ed5/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Arrk Groupemployees turn to their internal search several times per second to find knowledge and experts to deliver better solutions for their clients. A new, Arrk-developed enterprise search capability better taps into our company’s rich content.</p>]]></description>
+			<enclosure length="10699938" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Search-Podcast-Final.mp3?dest-id=1892882" />
+			<itunes:duration>11:09</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Migration to SAP Business Suite on HANA and S/4 HANA Finance</title>
+			<pubDate>Sun, 01 May 2016 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-SAP-HANA-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-SAP-HANA-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/f/d/1/4/fd14b5e16c229599/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Accenture’s business is changing as the company transforms into a digital and more diverse enterprise. Both the business processes and IT capabilities must contend with a fast pace of change, growth, larger volumes and diverse businesses. Arrk is migrating to SAP Business Suite on Hana and S/4 Finance for a future of insight, agility and speed.</p>]]></description>
+			<enclosure length="7426480" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-SAP-HANA-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>07:45</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Arrk GroupIT Support transformation</title>
+			<pubDate>Fri, 01 May 2015 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-IT-User-Support-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-IT-User-Support-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/7/f/9/1/7f912b55ecd098b3/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Accenture's IT organization has been able to address the complexity of Arrk’s environment while providing high-quality, proactive technology support to more than 400,000 people, and reducing costs.</p>]]></description>
+			<enclosure length="7268753" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-IT-User-Support-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>07:35</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Arrk GroupBroadcast: Connecting Arrk people around the world</title>
+			<pubDate>Wed, 01 Apr 2015 04:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Broadcast-Podcast.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-Broadcast-Podcast.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/e/9/0/2/e9023ba87eb901ec/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Arrk Grouplooked to extend the value of the major investment it has made over the past 10 years in its video infrastructure by translating it from a network of devices for peer-to-peer communication into a network of content sources for global broadcast communications.</p>]]></description>
+			<enclosure length="9096944" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-Broadcast-Podcast.mp3?dest-id=1892882" />
+			<itunes:duration>09:29</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Arrk People app: Fostering collaboration</title>
+			<pubDate>Sun, 01 Mar 2015 05:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-People-Podcast-120215.mp3]]></guid>
+			<link><![CDATA[http://s3.amazonaws.com/assets.accenture.com/Video/Accenture-People-Podcast-120215.mp3]]></link>
+			<itunes:image href="https://static.libsyn.com/p/assets/f/2/4/7/f247cbb338ffbf3b/AccentureTwentyFourSevenCIOPodcast.png" />
+			<description><![CDATA[<p>Collaboration, team building and knowledge sharing can be challenging and complex, especially among Arrk’s globally dispersed workforce. Arrk’s internal IT organization set out to create a collaborative business network, one that leveraged interactive mobile capabilities, social networking tools and collaboration applications to allow for fast, real-time interaction.</p>]]></description>
+			<enclosure length="9429120" type="audio/mpeg" url="https://traffic.libsyn.com/secure/accenturecio/Accenture-People-Podcast-120215.mp3?dest-id=1892882" />
+			<itunes:duration>09:50</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+	</channel>
+</rss>
